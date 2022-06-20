@@ -2,15 +2,15 @@
 ## About me:
 <!-- - 🔭 I’m currently working at [.......]() -->
 - 🌱 I’m currently learning Javascript and Kotlin
-- 👯 I’m looking to collaborate as Back End Developer
+- 👯 I’m looking to collaborate as Web Developer
 - 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning kotlin and react.js
 - 💬 Ask me about anything
 - 📫 How to reach me: yohanescahyadi59@gmail.com
 
 ## Education:
 #### 1. [Universitas Indraprasta PGRI](https://unindra.ac.id) | 3rd year student of Informatics Engineering | Jakarta `2019-2023`
-#### 2. [SMK Bina Karya](https://smkbinakarya.sch.id) | Secretary | Jakarta `2003-2006`
+#### 2. [SMK Bina Karya](https://smkbinakarya.sch.id) | Jakarta `2003-2006`
 
 <!-- ## Work Experience: -->
 
@@ -22,6 +22,9 @@
 [<img align="left" alt="Node.JS" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" style="padding-right:10px;" />][webdev]
 
 [<img align="left" alt="NPM" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" style="padding-right:10px;" />][webdev]
+
+<br />
+<br />
 
 [<img align="left" alt="VS Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" style="padding-right:10px;" />][webdev]
 
@@ -39,7 +42,6 @@
 [<img align="left" alt="MongoDB" width="60px" src="https://www.nurulfikri.com/wp-content/uploads/2020/02/MongoDB-mdb.png" style="padding-right:10px;" />][webdev]
 
 [<img align="left" alt="Android Studio" width="100px" src="https://trainingeltasa.com/wp-content/uploads/2021/07/android-studio-logo-3.png" style="padding-right:10px;" />][webdev]
-
 
 <br />
 <br />
