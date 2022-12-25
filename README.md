@@ -1,10 +1,10 @@
 # Hi there, I'm Yohanes - aka [Yohanes Cahyadi](www.linkedin.com/in/yohanes-cahyadi)
 ## About me:
 <!-- - 🔭 I’m currently working at [.......]() -->
-- 🌱 I’m currently learning Javascript and Kotlin
+- 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate as Web Developer
-- 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning kotlin and react.js
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning node.js
 - 💬 Ask me about anything
 - 📫 How to reach me: yohanescahyadi59@gmail.com
 
