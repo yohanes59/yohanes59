@@ -1,64 +1,57 @@
-# Hi there, I'm Yohanes - aka [Yohanes Cahyadi](www.linkedin.com/in/yohanes-cahyadi)
-## About me:
-<!-- - 🔭 I’m currently working at [.......]() -->
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate as Web Developer
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning node.js
-- 💬 Ask me about anything
-- 📫 How to reach me: yohanescahyadi59@gmail.com
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yohanes Cahyadi
+=======================================================================================================================================
 
-## Education:
-#### 1. [Universitas Indraprasta PGRI](https://unindra.ac.id) | 3rd year student of Informatics Engineering | Jakarta `2019-2023`
-#### 2. [SMK Bina Karya](https://smkbinakarya.sch.id) | Jakarta `2003-2006`
+Web Developer
+-------------
 
-<!-- ## Work Experience: -->
+* 🌍  I'm based in Indonesia
+* ✉️  You can contact me at [projectyohanescahyadi@gmail.com](mailto:projectyohanescahyadi@gmail.com)
+* 🧠  I'm learning MERN Stack
 
-### Languages and Tools:
-[<img align="left" alt="HTML CSS JS" width="100px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" style="padding-right:10px;" />][webdev]
+### Education
+* [Universitas Indraprasta PGRI](https://unindra.ac.id) | 4th year student of Informatics Engineering | Jakarta `2019-2023`
 
-[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
+### Skills
+* Core
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>&nbsp;&nbsp;
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>&nbsp;&nbsp;
+</p>
 
-[<img align="left" alt="Node.JS" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" style="padding-right:10px;" />][webdev]
+* Front-End
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>&nbsp;&nbsp;
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>&nbsp;&nbsp;
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>&nbsp;&nbsp;
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>&nbsp;&nbsp;
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>&nbsp;&nbsp;
+</p>
 
-[<img align="left" alt="NPM" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" style="padding-right:10px;" />][webdev]
+* Back-End And Database
+<p align="left">
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>&nbsp;&nbsp;
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>&nbsp;&nbsp;
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;&nbsp;
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>&nbsp;&nbsp;
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>&nbsp;&nbsp;
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>&nbsp;&nbsp;
+</p>
 
-<br />
-<br />
+* Software
+<p align="left">
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>&nbsp;&nbsp;
+</p>
 
-[<img align="left" alt="VS Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" style="padding-right:10px;" />][webdev]
+-------------
 
-[<img align="left" alt="MS. Office" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" style="padding-right:10px;" />][webdev]
-
-[<img align="left" alt="Visual Basic for Applications" width="60px" src="https://e7.pngegg.com/pngimages/457/797/png-clipart-visual-basic-for-applications-microsoft-excel-macro-microsoft-angle-logo.png" style="padding-right:10px;" />][webdev]
-
-[<img align="left" alt="PHP" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" style="padding-right:10px;" />][webdev]
-
-<br />
-<br />
-
-[<img align="left" alt="Java" width="40px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" style="padding-right:10px;" />][webdev]
-
-[<img align="left" alt="MongoDB" width="60px" src="https://www.nurulfikri.com/wp-content/uploads/2020/02/MongoDB-mdb.png" style="padding-right:10px;" />][webdev]
-
-[<img align="left" alt="Android Studio" width="100px" src="https://trainingeltasa.com/wp-content/uploads/2021/07/android-studio-logo-3.png" style="padding-right:10px;" />][webdev]
-
-<br />
-<br />
-
-
----
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/yohanescahyadii#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/yohanescahyadii#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yohanes-cahyadi#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yohanes-cahyadi#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/yohanesscahyadi#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/yohanesscahyadi#gh-dark-mode-only)
-&nbsp;&nbsp;
+<p align="left"> 
+<a href="https://www.github.com/yohanes59" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> &nbsp;&nbsp;
+<a href="https://www.facebook.com/yohanescahyadii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/yohanes-cahyadi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp;
+<a href="https://www.twitter.com/yohanescahyadii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp;
+</p>
 
 <p align="left">
 <a href="https://github.com/yohanes59">
