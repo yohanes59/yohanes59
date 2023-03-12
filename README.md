@@ -6,7 +6,7 @@ Web Developer
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [projectyohanescahyadi@gmail.com](mailto:projectyohanescahyadi@gmail.com)
-* 🧠  I'm learning MERN Stack
+* 🧠  I'm learning Laravel
 
 ### Education
 * [Universitas Indraprasta PGRI](https://unindra.ac.id) | 4th year student of Informatics Engineering | Jakarta `2019-2023`
